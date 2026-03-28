@@ -276,5 +276,5 @@ For questions or issues:
 
 ---
 
-**Built with ❤️ using AWS Serverless Technologies Amd Totally free using less credits**
+**Built with ❤️ using AWS Serverless Technologies And Totally free using less credits**
 
