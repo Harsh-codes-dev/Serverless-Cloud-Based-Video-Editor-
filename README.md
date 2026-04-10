@@ -8,7 +8,7 @@ An automated video editor that uses AI to transform long-form videos into engagi
 
 ## 🎯 Features
 
-- **🎬 Automated Clip Generation**: Upload a long video and get multiple short, vertical clips
+- **🎬 Automated Clip Generation**: Upload a long video and get multiple short
 - **🤖 AI-Powered Analysis**: Uses Gemini AI to identify the most exciting moments
 - **📝 Audio Transcription**: Automatic transcription with VOSK MODEL
 - **☁️ Fully Serverless**: Scales automatically, pay only for what you use(Our is free to use student account )
